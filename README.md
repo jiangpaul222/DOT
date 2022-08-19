@@ -24,7 +24,7 @@ conda install -c conda-forge geopandas
 ```
 
 ## Necessary Shapefiles
-Download the shapefiles required for snapping
+Download the shapefiles required for snapping:
 ```sh
 LION_22.zip
 RoadwayInventorySystem.zip
