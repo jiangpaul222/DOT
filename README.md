@@ -22,3 +22,10 @@ Installing the conda package from the conda-forge channel should also install al
 ```sh
 conda install -c conda-forge geopandas
 ```
+
+## Necessary Shapefiles
+Download the shapefiles required for snapping
+```sh
+LION_22.zip
+RoadwayInventorySystem.zip
+```
